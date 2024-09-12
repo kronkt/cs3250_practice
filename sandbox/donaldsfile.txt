@@ -2,3 +2,4 @@ I am Donald I wrote this on my machine.
 This is my own line of text here
 commiting 1/3
 commiting 2/3
+commiting 3/3
